@@ -8,7 +8,7 @@
     GitHub          : github.com/keithsistrunk
     Date Created    : 2025-12-25
     Last Modified   : 2025-12-25
-    Version         : 1.0
+    Version         : 1.1
     CVEs            : N/A
     Plugin IDs      : N/A
     STIG-ID         : WN11-CC-000315
